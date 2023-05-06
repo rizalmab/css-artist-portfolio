@@ -12,6 +12,10 @@ Concepts covered:
 
 ## 14-blog-post-project
 
+![alt text](./14-blog-post-project/images/blog-post-project-screenshot-1.png)
+![alt text](./14-blog-post-project/images/blog-post-project-screenshot-2.png)
+![alt text](./14-blog-post-project/images/blog-post-project-screenshot-3.png)
+
 ## 16-cv-project
 
 Concepts covered:
