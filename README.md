@@ -1,4 +1,4 @@
-#Projects covered
+# Projects covered
 
 ## 12-artist-portfolio
 
